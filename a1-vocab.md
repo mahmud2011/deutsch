@@ -1,10 +1,10 @@
-### Colors:
+# Colors:
 
 | Singular   | Plural    | Meaning |
 |------------|-----------|---------|
 | das Weiß   | die Weiß  | White   |
 
-### Other Nouns:
+# Other Nouns:
 
 | Singular    | Plural         | Meaning    |
 |-------------|----------------|------------|
@@ -14,11 +14,21 @@
 | der Käse    | die Käse       | Cheese     |
 | die Kälte   | -              | Cold       |
 | die Straße  | die Straßen    | Street     |
+| das Öl      | die Öle        | Oil        |
+| der Löwe    | die Löwen      | Lion       |
+| der Römer   | die Römerin    | Roman      |
+| das Buch    | die Bücher     | Book       |
+| die Küche   | die Küchen     | Kitchen    |
 
-### Non-Nouns:
+# Non-Nouns:
 
 | Word       | Meaning        |
 |------------|----------------|
 | groß       | Big            |
 | grüßen     | to greet       |
 | ästhetisch | aesthetic      |
+| böse       | evil/bad       |
+| östlich    | eastern        |
+| über       | over/above     |
+| kühl       | cool/cold      |
+| süß        | sweet          |
