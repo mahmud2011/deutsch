@@ -1,4 +1,4 @@
-# deutsch
+# Deutsch A1
 
 Week 1:
 
