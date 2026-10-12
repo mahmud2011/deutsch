@@ -1,0 +1,235 @@
+# German Vocabulary and Conversation Learning Web App
+
+## Persona
+
+I want to learn German (*Deutsch*), with a particular focus on vocabulary acquisition and long-term retention.
+
+When learning German vocabulary, certain information should always be memorized together:
+
+- **Nouns:** The definite article, singular form, and plural form.
+- **Verbs:** The infinitive form and the present perfect (*Perfekt*) form.
+- **Other vocabulary:** The German word and its English meaning.
+
+Consistent daily practice is essential for building vocabulary and improving language proficiency.
+The application should support this through spaced repetition, active recall, and conversation practice.
+
+## Project Overview
+
+I want to build a web application hosted on **GitHub Pages** that allows me to practice German vocabulary and 
+read German conversations.
+
+The learning materials should be stored in local files within the repository, making it easy to add, 
+edit, and organize content without modifying the application's source code.
+
+### 1. Project Structure
+
+The repository should contain separate directories for vocabulary and conversation materials.
+
+```text
+german-learning-app/
+├── vocabulary/
+│   ├── a_1_1.csv
+│   └── a_1_2.csv
+├── conversation/
+│   ├── a_1_1.md
+│   └── a_1_2.md
+├── src/
+├── public/
+├── index.html
+├── package.json
+└── README.md
+```
+
+The application should automatically load the available learning materials and organize them by level and lesson.
+
+### 2. Vocabulary Format
+
+Vocabulary should be stored in CSV files inside the `vocabulary/` directory. Each file represents a lesson or 
+vocabulary unit, such as `a_1_1.csv` or `a_1_2.csv`.
+
+Each entry should include the English meaning, the German vocabulary, and an example sentence with 
+its English translation.
+
+#### German nouns
+
+For nouns, the vocabulary entry must include the singular form with its definite article and 
+the plural form with its definite article.
+
+Example:
+
+```csv
+English,German,Example
+Man,der Mann (die Männer),Der Mann ist nett (The man is nice).
+```
+
+The application should treat `der Mann` and `die Männer` as a single learning item so that both forms are 
+practiced together.
+
+#### German verbs
+
+For verbs, the vocabulary entry must include the English meaning, the German infinitive, the present perfect 
+form, and an example sentence with its English translation.
+
+Example:
+
+```csv
+English,German,Example
+to read,lesen (hat gelesen),Ich habe schon das Buch gelesen (I have already read the book).
+```
+
+The infinitive and present perfect forms must be practiced together.
+
+#### Other vocabulary
+
+For adjectives, adverbs, and other vocabulary that does not require noun or verb forms, store the English meaning, 
+German word, and example sentence.
+
+Example:
+
+```csv
+English,German,Example
+Nice,nett,Der Mann ist nett (The man is nice).
+```
+
+The CSV format should be consistent across lessons and support special German characters, including ä, ö, ü, and ß.
+
+## 3. Practice Dashboard
+
+The application should have a main practice page where I can choose between two learning activities:
+
+1. **Vocabulary Practice**
+2. **Conversation Reading**
+
+The interface should be simple, responsive, and easy to use on both desktop and mobile devices.
+
+## 4. Vocabulary Practice Modes
+
+When I select Vocabulary Practice, I should be able to choose a **German proficiency level 
+(e.g., A1.1, A1.2, A2.1)**, then and select a practice mode.
+
+### Mode 1: English to German — Flashcards
+
+Display the English meaning on a flashcard. I must recall the corresponding German vocabulary before revealing the answer.
+
+The expected answer depends on the word type:
+
+- **Nouns:** German singular form with article and plural form with article.
+- **Verbs:** German infinitive and present perfect forms.
+- **Other vocabulary:** German word or expression.
+
+After revealing the answer, I should be able to rate how well I remembered it:
+
+- **Easy:** I recalled the answer without difficulty.
+- **Medium:** I recalled the answer with some effort.
+- **Hard:** I struggled to recall the answer or could not remember it.
+
+These ratings should determine when the vocabulary item appears again through a spaced repetition system.
+
+### Mode 2: German to English — Flashcards
+
+Display the German vocabulary and ask me to recall its English meaning.
+
+For nouns and verbs, the displayed German prompt should include the relevant forms, allowing me to practice 
+recognizing the vocabulary and understanding its meaning.
+
+After revealing the answer, I should rate my recall as Easy, Medium, or Hard. The application should use this rating 
+to schedule the next review.
+
+### Mode 3: Writing Practice — English to German
+
+Display the English meaning and require me to type the German answer.
+
+The application should check my answer against the expected German vocabulary and provide immediate feedback.
+
+- **Correct answer:** Show positive feedback and the correct German form.
+- **Incorrect answer:** Show the expected answer and allow me to learn from the mistake.
+- **Nouns:** Check the singular article and plural form.
+- **Verbs:** Check the infinitive and present perfect forms.
+- **Other vocabulary:** Check the German word or expression.
+
+The checking mechanism should account for German special characters and reasonable differences in whitespace or 
+punctuation without ignoring meaningful grammatical errors.
+
+This mode should also use spaced repetition to schedule future reviews.
+
+### 5. Spaced Repetition and Progress Tracking
+
+All three vocabulary practice modes should support spaced repetition to improve long-term retention.
+
+The application should:
+
+- Schedule vocabulary reviews according to my recall ratings.
+- Prioritize difficult or frequently forgotten vocabulary.
+- Track the number of vocabulary items learned, due for review, and mastered.
+- Preserve review history and progress between sessions.
+- Provide a daily practice queue so I can maintain a consistent learning routine.
+
+Because the application will be hosted on GitHub Pages, learning progress should be stored locally in the browser, 
+for example using IndexedDB or local storage. No backend server should be required for the initial version.
+
+## 6. Conversation Reading
+
+Conversation materials should be stored as Markdown files inside the `conversation/` directory.
+
+Each file represents a lesson and contains a top-level heading for the lesson, followed by second-level headings 
+for individual topics.
+
+Example file: `conversation/a_1_1.md`
+
+```markdown
+# A1.1
+
+## Asking and Answering Names
+
+A: Hallo! Wie heißt du?
+
+B: Ich heiße Anna. Und du?
+
+A: Ich heiße Max. Freut mich!
+
+B: Freut mich auch!
+
+## Introducing Yourself
+
+A: Woher kommst du?
+
+B: Ich komme aus Deutschland.
+```
+
+### Conversation interface
+
+When I select Conversation Reading, the application should display a reading interface with:
+
+- **A sidebar:** Lists the available conversation files and their topics.
+- **Lesson navigation:** Groups conversations by level and lesson.
+- **Topic navigation:** Extracts the `##` headings from each Markdown file.
+- **Main content area:** Displays the selected conversation with readable formatting.
+
+For example, selecting `A1.1` in the sidebar should reveal topics such as:
+
+- Asking and Answering Names
+- Introducing Yourself
+
+Selecting a topic should display that section in the main content area.
+
+The sidebar should make it easy to switch between topics and lessons without returning to the main dashboard.
+
+## 7. Technical and Deployment Requirements
+
+- The application must be a static website that can be deployed to GitHub Pages.
+- Use TailwindCSS.
+- Vocabulary and conversation content must remain separate from application logic.
+- The application should support UTF-8 encoding for German characters.
+- The interface should be responsive and accessible.
+- Vocabulary progress and spaced repetition data should persist locally in the browser.
+- The project should be deployed on github as github pages using a github action.
+
+## 8. Overall Goal
+
+The goal is to create a personal German-learning application that combines structured vocabulary memorization 
+with practical reading and conversation practice.
+
+The central learning principle is to memorize related grammatical forms together, reinforce them through active recall, 
+and review them at appropriate intervals using spaced repetition.
+
+The application should make daily German practice straightforward, measurable, and sustainable.
