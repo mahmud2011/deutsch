@@ -1,11 +1,57 @@
 English,German,Example
-the man,der Mann; die Männer,Der Mann ist nett (The man is nice).
-the woman,die Frau; die Frauen,Die Frau liest ein Buch (The woman is reading a book).
-the child,das Kind; die Kinder,Das Kind spielt im Garten (The child plays in the garden).
-the book,das Buch; die Bücher,Ich lese ein Buch (I am reading a book).
-to read,lesen; er liest; hat gelesen,Ich habe schon das Buch gelesen (I have already read the book).
-to be,sein; er ist; ist gewesen,Er ist krank gewesen (He has been sick).
-to come,kommen; er kommt; ist gekommen,Sie ist aus Berlin gekommen (She has come from Berlin).
-nice,nett,Der Mann ist nett (The man is nice).
-to be called,heißen; er heißt; hat geheißen,Wie hast du geheißen? (What were you called?).
-hello,hallo,Hallo! Wie geht es dir? (Hello! How are you?).
+Content,der Inhalt; die Inhalte,Der Inhalt des Buches ist interessant (The content of the book is interesting).
+Lesson,die Lektion; die Lektionen,Die Lektion beginnt um neun Uhr (The lesson starts at nine o'clock).
+Page,die Seite; die Seiten,Bitte öffnen Sie die Seite zehn (Please open page ten).
+Book,das Buch; die Bücher,Ich lese ein interessantes Buch (I am reading an interesting book).
+Word,das Wort; die Wörter,Ich kenne dieses Wort (I know this word).
+Day,der Tag; die Tage,Heute ist ein schöner Tag (Today is a beautiful day).
+Weekend,das Wochenende; die Wochenenden,Am Wochenende besuche ich meine Familie (I visit my family at the weekend).
+Name,der Name; die Namen,Wie ist Ihr Name? (What is your name?).
+Firstname,der Vorname; die Vornamen,Mein Vorname ist David (My first name is David).
+Lastname,der Nachname; die Nachnamen,Mein Nachname ist Müller (My last name is Müller).
+Nickname,der Spitzname; die Spitznamen,Mein Spitzname ist Alex (My nickname is Alex).
+Familyname,der Familienname; die Familiennamen,Mein Familienname ist Schmidt (My family name is Schmidt).
+Appointment,der Termin; die Termine,Ich habe morgen einen Termin (I have an appointment tomorrow).
+to see,sehen; er sieht; hat gesehen,Ich sehe einen Vogel (I see a bird).
+to watch,ansehen; er sieht an; hat angesehen,Ich sehe mir einen Film an (I am watching a movie).
+Picture,das Bild; die Bilder,Das Bild ist sehr schön (The picture is very beautiful).
+to hear,hören; er hört; hat gehört,Ich höre Musik (I am listening to music).
+to read,lesen; er liest; hat gelesen,Ich lese ein Buch (I am reading a book).
+to read along,mitlesen; er liest mit; hat mitgelesen,Bitte lesen Sie den Text mit (Please read along with the text).
+to speak,sprechen; er spricht; hat gesprochen,Ich spreche Deutsch (I speak German).
+to complete,ergänzen; er ergänzt; hat ergänzt,Bitte ergänzen Sie den Satz (Please complete the sentence).
+Course,der Kurs; die Kurse,Mein Deutschkurs beginnt heute (My German course starts today).
+to react,reagieren; er reagiert; hat reagiert,Wie reagierst du auf diese Nachricht? (How do you react to this message?).
+to repeat after,nachsprechen; er spricht nach; hat nachgesprochen,Bitte sprechen Sie den Satz nach (Please repeat the sentence after me).
+to begin,beginnen; er beginnt; hat begonnen,Der Unterricht beginnt um neun Uhr (The lesson begins at nine o'clock).
+to start,anfangen; er fängt an; hat angefangen,Der Film fängt um acht Uhr an (The film starts at eight o'clock).
+Snake,die Schlange; die Schlangen,Die Schlange liegt im Gras (The snake is lying in the grass).
+Queue,die Schlange; die Schlangen,Ich stehe in der Schlange (I am standing in the queue).
+to do,machen; er macht; hat gemacht,Ich mache meine Hausaufgaben (I am doing my homework).
+to play,spielen; er spielt; hat gespielt,Die Kinder spielen im Garten (The children are playing in the garden).
+Conversation,das Gespräch; die Gespräche,Wir führen ein Gespräch auf Deutsch (We are having a conversation in German).
+to write,schreiben; er schreibt; hat geschrieben,Ich schreibe einen Brief (I am writing a letter).
+to collect,sammeln; er sammelt; hat gesammelt,Ich sammle Briefmarken (I collect stamps).
+to come,kommen; er kommt; ist gekommen,Ich komme aus Deutschland (I come from Germany).
+Number,die Zahl; die Zahlen,Welche Zahl ist richtig? (Which number is correct?).
+to pay,bezahlen; er bezahlt; hat bezahlt,Ich bezahle die Rechnung (I am paying the bill).
+to separate,trennen; er trennt; hat getrennt,Ich trenne den Müll (I separate the rubbish).
+small cards,die Kärtchen; die Kärtchen,Die Kärtchen liegen auf dem Tisch (The small cards are on the table).
+to exchange,austauschen; er tauscht aus; hat ausgetauscht,Wir tauschen unsere Karten aus (We exchange our cards).
+to swap,tauschen; er tauscht; hat getauscht,Ich tausche meine Karte mit deiner Karte (I swap my card for your card).
+in pairs,zu zweit,Wir arbeiten zu zweit (We work in pairs).
+Pair,das Paar; die Paare,Wir bilden ein Paar (We form a pair).
+Color,die Farbe; die Farben,Meine Lieblingsfarbe ist Blau (My favorite color is blue).
+to connect,verbinden; er verbindet; hat verbunden,Bitte verbinden Sie die Wörter mit den Bildern (Please connect the words with the pictures).
+purple,lila,Lila ist eine schöne Farbe (Purple is a beautiful color).
+Course instructor (male),der Kursleiter; die Kursleiter; die Kursleiterin; die Kursleiterinnen,Der Kursleiter erklärt die Aufgabe (The male course instructor explains the task).
+Student (male),der Student; die Studenten; die Studentin; die Studentinnen,Der Student lernt Deutsch (The male student is learning German).
+Colleague,der Kollege; die Kollegen; die Kollegin; die Kolleginnen,Mein Kollege lernt Deutsch (My male colleague is learning German).
+to say,sagen; er sagt; hat gesagt,Was hast du gesagt? (What did you say?).
+to stand up,aufstehen; er steht auf; ist aufgestanden,Ich stehe jeden Morgen um sieben Uhr auf (I get up at seven o'clock every morning).
+to point,zeigen; er zeigt; hat gezeigt,Er zeigt auf das Bild (He points at the picture).
+to show,zeigen; er zeigt; hat gezeigt,Ich zeige dir mein Buch (I show you my book).
+to learn,lernen; er lernt; hat gelernt,Ich lerne Deutsch (I am learning German).
+to study,studieren; er studiert; hat studiert,Ich studiere Informatik (I study computer science).
+to call,anrufen; er ruft an; hat angerufen,Ich rufe meine Mutter an (I call my mother).
+to name,nennen; er nennt; hat genannt,Wie nennt man das auf Deutsch? (What do you call that in German?).
