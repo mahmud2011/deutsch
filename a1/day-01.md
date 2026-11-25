@@ -54,3 +54,51 @@ The verb is always in the **second position** in a declarative sentence.
 | Summer | der Sommer |
 | Autumn | der Herbst |
 | Winter | der Winter |
+
+## Conversation
+
+### Greetings
+
+- Hallo! (informal)
+- Guten Morgen! (6 - 11)
+- Guten Tag! (11- 18)
+- Guten Abend! (18-)
+- Gute Nacht! (Before going to bed)
+
+### Good Bye
+
+- Auf Wiedersehen! (Formal)
+- Tschüss! (Informal)
+- Bis bald! (See you soon!)
+- Bis später! (See you later!)
+- Bis morgen! (See you tomorrow!)
+- Bis nächste Woche! (See you next week!)
+-
+- Schönen Tag noch! (Have a nice rest of your day!)
+  - Ihr auch! / Dir auch!
+- Schöne Woche! (Have a nice week!)
+- Schönes Wochenende! (Have a nice weekend!)
+
+## Asking and Answering Names
+
+Q: Wie ist Ihr Name? / Wie ist dein Name?
+
+A: Mein Name ist Max.
+
+Q: Wer sind Sie? / Wer bist du?
+
+A: Ich bin Max.
+
+Q: Wie heißen Sie? / Wie heißt du?
+
+A: Ich heiße Max.
+
+Example:
+
+**A:** Hallo! Wie heißt du?
+
+**B:** Ich heiße Anna. Und du?
+
+**A:** Ich heiße Max. Freut mich!
+
+**B:** Freut mich auch!
