@@ -81,11 +81,11 @@ The verb is always in the **second position** in a declarative sentence.
 
 ## Asking and Answering Names
 
-Q: Wie ist Ihr Name? / Wie ist dein Name?
+Q: Wie ist Ihr Name? / Wie ist dein Name? (How is your name?)
 
 A: Mein Name ist Max.
 
-Q: Wer sind Sie? / Wer bist du?
+Q: Wer sind Sie? / Wer bist du? (Who are you?)
 
 A: Ich bin Max.
 
