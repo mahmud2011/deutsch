@@ -80,7 +80,7 @@ The verb is always in the **second position** in a declarative sentence.
 - Schöne Woche! (Have a nice week!)
 - Schönes Wochenende! (Have a nice weekend!)
 
-## Asking and Answering Names
+### Asking and Answering Names
 
 Q: Wie ist Ihr Name? / Wie ist dein Name? [How (What) is your name?]
 
