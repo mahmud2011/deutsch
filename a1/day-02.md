@@ -1,4 +1,9 @@
-## 1. Verbs (Verben)
+## 1. Grammar Rule
+
+The verb is always in the **second position** in a W-Frage sentence.
+- Woher **kommst** du?
+
+## 2. Verbs (Verben)
 
 ### machen – to do / to make
 
@@ -51,3 +56,29 @@
 | Sie/sie haben |
 
 **Perfect:** hat gehabt
+
+### spielen – to play
+
+| German |
+|---|
+| Ich spiele |
+| Du spielst |
+| Er/Sie/Es spielt |
+| Wir spielen |
+| Ihr spielt |
+| Sie/sie spielen |
+
+**Perfect:** hat gespielt
+
+### kommen – to come
+
+| German |
+|---|
+| Ich komme |
+| Du kommst |
+| Er/Sie/Es kommt |
+| Wir kommen |
+| Ihr kommt |
+| Sie/sie kommen |
+
+**Perfect:** ist gekommen
