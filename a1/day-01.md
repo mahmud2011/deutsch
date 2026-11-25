@@ -1,7 +1,7 @@
 ## 1. Grammar Rule
 
 The verb is always in the **second position** in a declarative sentence.
-- Ich bin Softwareentwickler.
+- Ich **bin** Softwareentwickler.
 
 ## 2. Verbs (Verben)
 
