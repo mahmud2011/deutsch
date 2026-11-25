@@ -1,6 +1,6 @@
 ## 1. Grammar Rule
 
-The verb is always in the **second position** in a sentence.
+The verb is always in the **second position** in a declarative sentence.
 
 ## 2. Verbs (Verben)
 
