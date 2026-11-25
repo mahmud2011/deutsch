@@ -85,3 +85,11 @@ The verb is always in **first position** in Ja/Nein Frage.
 | Sie/sie kommen |
 
 **Perfect:** ist gekommen
+
+## Conversation
+
+## Where someone is from
+
+Q: Woher kommen Sie? / Woher kommst du?
+
+A: Ich komme aus Deutschland.
