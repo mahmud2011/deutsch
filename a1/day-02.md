@@ -3,6 +3,9 @@
 The verb is always in the **second position** in a W-Frage sentence.
 - Woher **kommst** du?
 
+The verb is always in **first position** in Ja/Nein Frage.
+- **Sprechen** Sie Deutsch?
+
 ## 2. Verbs (Verben)
 
 ### machen – to do / to make
