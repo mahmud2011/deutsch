@@ -75,7 +75,8 @@ The verb is always in the **second position** in a declarative sentence.
 - Bis nächste Woche! (See you next week!)
 -
 - Schönen Tag noch! (Have a nice rest of your day!)
-  - Ihr auch! / Dir auch!
+  - Ihnen auch! / Dir auch!
+  - Ihnen auch! / Euch auch!
 - Schöne Woche! (Have a nice week!)
 - Schönes Wochenende! (Have a nice weekend!)
 
